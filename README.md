@@ -1,7 +1,7 @@
 - Hey👋, I'm Suraj Patil
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding 
 - 🌱 I’m currently learning ReactJs 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .......
 - 📫 To contact me mail : patilsuraj4839@gmail.com
 - 😄 
 - ⚡ Fun fact: While talking about the viruses we all know its harmful but the first computer viruses were not harmful
